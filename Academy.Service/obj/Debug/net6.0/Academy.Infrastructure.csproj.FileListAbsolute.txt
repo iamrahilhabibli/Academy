@@ -1,0 +1,15 @@
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.csproj.AssemblyReference.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.AssemblyInfoInputs.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.AssemblyInfo.cs
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/bin/Debug/net6.0/Academy.Infrastructure.deps.json
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/bin/Debug/net6.0/Academy.Infrastructure.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/bin/Debug/net6.0/Academy.Infrastructure.pdb
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/bin/Debug/net6.0/Academy.Core.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/bin/Debug/net6.0/Academy.Core.pdb
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.csproj.CopyComplete
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/refint/Academy.Infrastructure.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/Academy.Infrastructure.pdb
+/Users/rahilhabibli/Desktop/Academy/Academy.Service/obj/Debug/net6.0/ref/Academy.Infrastructure.dll

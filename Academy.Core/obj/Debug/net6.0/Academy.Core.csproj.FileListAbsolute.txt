@@ -1,0 +1,12 @@
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/bin/Debug/net6.0/Academy.Core.deps.json
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/bin/Debug/net6.0/Academy.Core.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/bin/Debug/net6.0/Academy.Core.pdb
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.csproj.AssemblyReference.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.AssemblyInfoInputs.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.AssemblyInfo.cs
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.csproj.CoreCompileInputs.cache
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/refint/Academy.Core.dll
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/Academy.Core.pdb
+/Users/rahilhabibli/Desktop/Academy/Academy.Core/obj/Debug/net6.0/ref/Academy.Core.dll
